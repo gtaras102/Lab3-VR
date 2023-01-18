@@ -6039,7 +6039,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mach every planet with its name on the sorting table
+  m_text: Match every planet with its name on the sorting table
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23024,7 +23024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2024868160}
   m_Layer: 0
-  m_Name: Sockers
+  m_Name: Sockets planets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

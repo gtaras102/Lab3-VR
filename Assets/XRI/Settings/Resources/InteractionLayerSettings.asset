@@ -14,18 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - UI
-  - Sun
-  - Mercury
-  - Venus
-  - Earth
-  - Mars
-  - Jupiter
-  - Saturn
-  - Uranus
-  - Neptune
-  - Pluto
-  - Button
   - 
   - 
   - 
@@ -44,4 +32,16 @@ MonoBehaviour:
   - 
   - 
   - 
-  - Teleport
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - teleport
